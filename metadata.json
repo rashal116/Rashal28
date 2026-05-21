@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Task Web App",
+  "description": "A highly polished Telegram Mini App styled dashboard featuring comprehensive user task completion, custom task upload, full wallet management, referral networks, lucky spin, scratch cards, mining system, and a robust admin controller.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
